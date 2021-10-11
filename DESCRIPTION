@@ -62,7 +62,6 @@ Remotes:
     github::gabraham/flashpca/flashpcaR,
     github::achilleasNP/IlluminaHumanMethylationEPICmanifest,
     github::achilleasNP/IlluminaHumanMethylationEPICanno.ilm10b5.hg38,
-    github::mcanouil/FlowSorted.Blood.EPIC@fix-cordBloodCombined
     url::https://cran.r-project.org/src/contrib/Archive/RefFreeEWAS/RefFreeEWAS_2.2.tar.gz
 Encoding: UTF-8
 LazyData: true
