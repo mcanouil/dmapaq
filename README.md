@@ -37,7 +37,7 @@ remotes::install_github("umr1283/dmapaq")
 ## Getting help
 
 If you encounter a clear bug, please file a minimal reproducible example
-on [github](https://github.com/umr1283/dgapaq/issues).  
+on [github](https://github.com/umr1283/dmapaq/issues).  
 For questions and other discussion, please contact the package
 maintainer.
 
