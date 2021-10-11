@@ -6,7 +6,7 @@
 <!-- badges: start -->
 
 [![Lifecycle:
-experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+questioning](https://img.shields.io/badge/lifecycle-questioning-orange.svg)]()
 [![GitHub
 tag](https://img.shields.io/github/tag/umr1283/dmapaq.svg?label=latest%20tag&include_prereleases)](https://github.com/umr1283/dmapaq)
 [![R build
@@ -43,7 +43,7 @@ maintainer.
 
 ## Code of Conduct
 
-Please note that the `dgapaq` project is released with a [Contributor
+Please note that the `dmapaq` project is released with a [Contributor
 Code of
 Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
 By contributing to this project, you agree to abide by its terms.
