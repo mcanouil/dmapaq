@@ -26,13 +26,13 @@ remotes::install_github("umr1283/dmapaq")
 
 ## Overview
 
--   `read_idats()` allows to efficiently import idats files mostly using
+  - `read_idats()` allows to efficiently import idats files mostly using
     [minfi](https://bioconductor.org/packages/minfi/) functions.
--   `qc_idats()` allows to compute quality-control of methylation array
+  - `qc_idats()` allows to compute quality-control of methylation array
     from Illumina using a [rmarkdown
     template](inst/rmarkdown/templates/qc_idats/skeleton/skeleton.Rmd).
 
-------------------------------------------------------------------------
+-----
 
 ## Getting help
 
